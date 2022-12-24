@@ -1,0 +1,1 @@
+simple and single page project shows sticky navigation bar which is almost used in all major websites it consists of HTML and javascript.
